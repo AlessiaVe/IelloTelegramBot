@@ -1,4 +1,4 @@
-# Iello Bot (Read me in lavorazione) #
+# Iello Bot #
 
 All'interno del progetto Iello, è stato implementato il seguente Bot per accedere ai dati anche attraverso la piattaforma di messagistica Telegram. 
 
